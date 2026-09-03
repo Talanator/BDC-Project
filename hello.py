@@ -2,7 +2,6 @@
 print("Hello, World!")
 
 import numpy as np
-import sys
 
 def greet(name):
     return f"Hello, {name}!"
