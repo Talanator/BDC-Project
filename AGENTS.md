@@ -2,8 +2,7 @@
 
 ## Project shape
 
-- This is a small Python research project focused on BDC and SEC EDGAR data.
-- `BDC_exploring.ipynb` is the main exploratory workflow; `hello.py` is a small Python smoke example.
+- This is a Python research project focused on BDC and SEC EDGAR data.
 - Keep changes focused and easy to run from the repository root.
 
 ## Environment and validation
@@ -31,3 +30,12 @@
 ## Documentation
 
 - Keep project-specific setup notes in [README.md](README.md); avoid duplicating them in code comments.
+
+## Code style preferences
+
+- Prefer simple, readable code over compact code.
+- Use clear variable and function names.
+- Use additional lines when they make the code easier to understand.
+- Add comments explaining purpose, assumptions, data transformations, and non-obvious logic.
+- Avoid comments that merely restate what the next line does.
+- Keep functions focused and straightforward.
